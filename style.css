@@ -557,6 +557,10 @@ footer {
     color: var(--secondary-color);
 }
 
+footer > p{
+    text-align: center;
+    margin-top: 30px;
+}
 
 /* Responsive Media Query code for max-width: 1024px */
 
